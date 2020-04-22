@@ -1,6 +1,6 @@
 # navigation_drawer
 
-A new Flutter application.
+building Navigation Drawer with routing.
 
 ## Getting Started
 
